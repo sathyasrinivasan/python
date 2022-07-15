@@ -17,3 +17,5 @@ sat.lastName()
 sat.name
 bat.grow(2)
 bat.age
+
+bat.age
